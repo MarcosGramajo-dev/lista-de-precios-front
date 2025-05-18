@@ -1,0 +1,23 @@
+<svg width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 3C0 1.89543 0.895431 1 2 1H25C26.1046 1 27 1.89543 27 3V5H0V3Z" fill="#7FB26F"/>
+<path d="M0 22H27V24C27 25.1046 26.1046 26 25 26H2C0.895431 26 0 25.1046 0 24V22Z" fill="#7FB26F"/>
+<line x1="3.5" y1="5" x2="3.5" y2="22" stroke="#7FB26F"/>
+<line x1="5.5" y1="5" x2="5.5" y2="22" stroke="#7FB26F"/>
+<line x1="7.5" y1="5" x2="7.5" y2="22" stroke="#7FB26F"/>
+<line x1="9.5" y1="5" x2="9.5" y2="22" stroke="#7FB26F"/>
+<line x1="11.5" y1="5" x2="11.5" y2="22" stroke="#7FB26F"/>
+<line x1="13.5" y1="5" x2="13.5" y2="22" stroke="#7FB26F"/>
+<line x1="15.5" y1="5" x2="15.5" y2="22" stroke="#7FB26F"/>
+<line x1="17.5" y1="5" x2="17.5" y2="22" stroke="#7FB26F"/>
+<line x1="19.5" y1="5" x2="19.5" y2="22" stroke="#7FB26F"/>
+<line x1="21.5" y1="5" x2="21.5" y2="22" stroke="#7FB26F"/>
+<line x1="23.5" y1="5" x2="23.5" y2="22" stroke="#7FB26F"/>
+<line x1="26" y1="5" x2="26" y2="22" stroke="#7FB26F" stroke-width="2"/>
+<line x1="13" y1="0.5" x2="15" y2="0.5" stroke="#7FB26F"/>
+<circle cx="3" cy="3" r="1" fill="white"/>
+<circle cx="24" cy="24" r="1" fill="white"/>
+<rect y="5" width="1" height="1" fill="white"/>
+<rect x="26" y="5" width="1" height="1" fill="white"/>
+<rect x="26" y="21" width="1" height="1" fill="white"/>
+<rect y="21" width="1" height="1" fill="white"/>
+</svg>
