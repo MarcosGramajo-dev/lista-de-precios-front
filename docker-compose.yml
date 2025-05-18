@@ -1,8 +1,11 @@
-version: "3.9"
 services:
   frontend:
     build: .
     container_name: lista-precios-frontend
     ports:
-      - "3002:3002"
-    restart: always
+      - "3002:5173"  # navegador -> 3002, contenedor -> 5173
+    volumes:
+      - .:/app
+      - /app/node_modules
+
+    restart: unless-stopped
