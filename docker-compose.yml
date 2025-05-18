@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  frontend:
+    build: .
+    container_name: lista-precios-frontend
+    ports:
+      - "3002:3002"
+    restart: always
